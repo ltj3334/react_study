@@ -1,1 +1,1 @@
-# react_stry
+# react_study
